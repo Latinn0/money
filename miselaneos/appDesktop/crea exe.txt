@@ -1,0 +1,9 @@
+ejecutar cmd... no git
+y ejecutar electron-packager .
+comprimir lo interno de la carpeta
+	check en autoinstable
+	pestaña avanzado 
+		general -> appmenco
+			C:\Program Files (x86)\appmenco\app.exe
+			
+	
